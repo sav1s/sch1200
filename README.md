@@ -1,6 +1,6 @@
 # sch1200
 Что такое sch1200?
-<a href="https://github.com/debianlab/antisch">sch1200</a>-это утилита для тестирования на проникновение в Ваш собственный, учительский аккаунт на dnevnik.mos.ru
+<a href="https://github.com/sav1s/sch1200">sch1200</a>-это утилита для тестирования на проникновение в Ваш собственный, учительский аккаунт на dnevnik.mos.ru
 <b>Установка на Linux/Termux:</b>
 <ul>
   <li><code>apt update && apt upgrade</code></li>
