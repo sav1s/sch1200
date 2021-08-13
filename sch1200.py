@@ -23,9 +23,9 @@ def bruteforce(mode, login):
         else:
             slovar = int(input("1) Use your own dictionary\n2) Use our dictionary"))
         if slovar == 1:
-            slovar = "./slovar.txt"
+            slovar = "./bd.txt"
         else: 
-            slovar = "./our_slovar.txt"
+            slovar = "./our_bd.txt"
         if version == 1:
             print(f"[+] Атака на {login} началась")
         else:
