@@ -5,9 +5,9 @@
 <ul>
   <li><code>apt update && apt upgrade</code></li>
   <li><code>apt install python</code></li>
-  <li><code>git clone https://github.com/debianlab/antisch/</code></li>
+  <li><code>git clone https://github.com/sav1s/sch1200</code></li>
   <li><code>pip3 install requests</code></li>
-  <li><code>cd antisch && python3 index.py</code></li>
+  <li><code>cd antisch && python3 sch1200.py</code></li>
 </ul>
 <b>Инструкция:</b>
 <br />
