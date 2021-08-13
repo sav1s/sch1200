@@ -1,10 +1,10 @@
 # sch1200
-Что такое sch1200?
-sch1200-это утилита для тестирования на проникновение в Ваш собственный, учительский аккаунт dnevnik.mos.ru
-Установка на Linux/Termux:
-
-apt update && apt upgrade
-apt install python
+# Что такое sch1200?
+# sch1200-это утилита для тестирования на проникновение в Ваш собственный, учительский аккаунт dnevnik.mos.ru
+# Установка на Linux/Termux:
+# 
+# apt update && apt upgrade
+# apt install python
 git clone https://github.com/debianlab/antisch/
 pip3 install requests
 cd antisch && python3 index.py
